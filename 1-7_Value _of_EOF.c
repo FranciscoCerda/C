@@ -1,10 +1,13 @@
- #include <stdio.h>
- 
- int main()
- 
- {
-        printf("This is te value of EOF: %d\n", EOF);
-        printf("\n");
-        
-        return 0;
- }   
+#include <stdio.h>
+
+int main()
+{
+    int c;
+    
+    while ((c=getchar())!=EOF)
+    {
+        putchar(c);
+    }
+    printf("\nValue of EOF: %d\n", EOF);
+    return 0;
+}
