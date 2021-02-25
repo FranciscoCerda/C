@@ -1,3 +1,6 @@
+//This code was made mainly with the help of my friend Angel Soria, to whom I send a greeting. Also, I’d like to thank foro.elhacker.net for resolving some doubts about coding.
+
+
 #include <stdio.h>
 
 int main() 
