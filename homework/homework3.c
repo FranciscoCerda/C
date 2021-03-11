@@ -1,3 +1,6 @@
+/*To make this code, I needed the help of Ángel Soria and Ángel Chávez, 
+who helped me to understand how to develop it and make it works.*/
+
 #include <stdio.h>
 #include <ctype.h>
 
