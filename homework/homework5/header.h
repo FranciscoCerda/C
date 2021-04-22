@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-
 #define FLUSH fflush(stdin)
 #define k 30
 
