@@ -106,3 +106,5 @@ int getdata(char *user, char *line) {
 	user[i] = '\0';
 		return i;
 }
+
+/* References: rulgamer and Rogelio ASR
