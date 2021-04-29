@@ -107,4 +107,4 @@ int getdata(char *user, char *line) {
 		return i;
 }
 
-/* References: rulgamer and Rogelio ASR
+/* References: rulgamer and Rogelio ASR */
