@@ -92,7 +92,7 @@ node *insert(char *name, char *password, node* pos) {
     }
 }
     printf("User succesfully added\n\n");
-	return 0;
+	return pos;
 }
 
 
