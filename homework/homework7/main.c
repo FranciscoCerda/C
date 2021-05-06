@@ -212,3 +212,5 @@ void mostrarReporte ()
  }
  fclose(pRecord);
 }
+
+/* References: Daniela PQ */
