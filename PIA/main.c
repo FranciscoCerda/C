@@ -8,7 +8,7 @@ int main()
 {
     char word[60], rep[100], temporal[100];
     char pal;
-    int lg, i, j, strt, crrct=0, temp=0, chances=5;
+    int lg, i, j, strt, crrct=0, temp=0, chances=6;
     int repetido=0,win=0;
 
     printf("\n\t\t\t\tTHE HANDMAN GAME\n\n");
