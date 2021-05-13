@@ -24,19 +24,25 @@ Si has jugado al ahorcado, te habrás dado cuenta que si cometes errores al adiv
 
 ------------------------------------------------------------------------------------------
 
-༼ つ ❍_❍ ༽つ
+# PIA: Hangman Game ༼ つ ❍_❍ ༽つ
 
-For this project I have the idea of making a code which will allow you to play 
-"Hangman" or "Ahorcado" in Spanish. My idea is that, through a text file or 
-directly in the code, the words that the user will try to guess can be entered 
-into the program. If possible, I will try to have a variety of words and 
-I will try to organize them by category.
 
-If you have played "Hangman", you will have noticed that if you commit mistakes 
-when guessing letters, a little stick-man will be draw under a gallows. When 
-starting the program, after making the initial configuration (I haven't yet 
-considered the options well), the gallows will be draw with ASCII characters 
-and the spaces in which the correct letters that we choose will be written will 
-be placed below it. In case of choosing an incorrect letter, our little stick-man 
-will be printed little by little, being hung on the gallows. There will be a 
-maximum of 5 attempts (arms, legs and head).
+## Brief description
+
+For this project I have the idea of making a code which will allow you to play "Hangman" or "Ahorcado" in Spanish. My idea is that, through a text file or directly in the code, the words that the user will try to guess can be entered into the program. If possible, I will try to have a variety of words and I will try to organize them by category.
+
+If you have played "Hangman", you will have noticed that if you commit mistakes when guessing letters, a little stick-man will be draw under a gallows. When starting the program, after making the initial configuration (I haven't yet considered the options well), the gallows will be draw with ASCII characters and the spaces in which the correct letters that we choose will be written will be placed below it. In case of choosing an incorrect letter, our little stick-man will be printed little by little, being hung on the gallows. There will be a maximum of 5 attempts (arms, legs and head)..
+
+## Representation
+
+```
+        _______                                                                                                                  
+       |       |                                                                                                                 
+       |       O                                                                                                                  
+       |      /|\                                                                                                                  
+       |      / \                                                                                                                 
+       |                                                                                                                         
+       |
+       |                                                                                                                         
+  ------------  
+```
