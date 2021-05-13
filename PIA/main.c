@@ -4,10 +4,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main() {
-    char word[60],rep[100],temporal[100];
+int main() 
+{
+    char word[60], rep[100], temporal[100];
     char pal;
-    int lg,i,j,strt,crrct=0,temp=0, chances=5;
+    int lg, i, j, strt, crrct=0, temp=0, chances=5;
     int repetido=0,win=0;
 
     printf("\n\t\t\t\tTHE HANDMAN GAME\n\n");
@@ -25,36 +26,43 @@ int main() {
     rep[1] = '\0';
 
 
-    do {
-                system("cls");
-        temp=0;
+    do 
+        {
+            system("cls");
+            temp=0;
 
-        if(strt == 0) {
-         for(i=0;i<strlen(word);i++) {
-          if(word[i] == ' ') {
-            temporal[i] = ' ';
-             lg++;
+            if(strt == 0) 
+            {
+             for(i=0;i<strlen(word);i++) 
+                {
+                 if(word[i] == ' ') 
+                    {
+                        temporal[i] = ' ';
+                        lg++;
+                    }
+                     else 
+                    {
+                        temporal[i] = '_';
+                        lg++;
+                    }
+                }
           }
-          else {
-             temporal[i] = '_';
-             lg++;
-          }
-         }
-        }
 
-        strt = 1;
+      strt = 1;
+      temporal[lg] = '\0';
 
-        temporal[lg] = '\0';
-
-        for(i=0;i<strlen(rep);i++) {
-           if(rep[i] == pal) {
-            repetido = 1;
-            break;
-          }
-          else {
-           repetido = 0;
-         }
-        }
+        for(i = 0; i < strlen(rep); i++) 
+            {
+               if(rep[i] == pal) 
+               {
+                repetido = 1;
+                break;
+                }
+                 else 
+                {
+                repetido = 0;
+                }
+             }
 
         if(repetido == 0) {
          for(i=0;i<strlen(word);i++) {
