@@ -1,7 +1,5 @@
 # PIA: Hangman Game ༼ つ ❍_❍ ༽つ
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Breve descripción
 
 Para este proyecto tengo la idea de realizar un código el cual te permita jugar al "Ahorcado" o "Hangman" en inglés. Mi idea es que, mediante un archivo de texto o directamente en el código, se puedan ingresar al programa las palabras que intentará adivinar el usuario. De ser posible, trataré de que no sean pocas y que estén organizadas por categorías.
