@@ -44,3 +44,13 @@ I consulted some videos and pages to get references of how to make my code.
 
 -[Hangman](https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c)
 
+## Self-evaluation
+1: complexity 2 (not very complicated)
+
+2: functionality 2 (has some errors with printing)
+
+3: code 3 (is a bit long, could be shortened)
+
+4: storage 2
+
+5: documentation 3 (the video is very simple)
