@@ -33,9 +33,14 @@ PIA. The Hangman Game (https://youtu.be/ajBDJcPiY80)
 I consulted some videos and pages to get references of how to make my code. 
 
 -*dcastillob* on GitHub.
+
 -*OpenWebinars* on Youtube.
+
 -*Programador EC* on Youtube: (https://www.youtube.com/watch?v=kmQvQ2Y0X88)
+
 -*CodigoCompilado* on Youtube: (https://www.youtube.com/watch?v=qnap571WLGY)
+
 -*DuarteCorporation Tutoriales* on Youtube: (https://www.youtube.com/watch?v=J47WHf8lQI8)
+
 -https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c
 
