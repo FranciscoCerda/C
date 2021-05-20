@@ -27,20 +27,20 @@ being hung on the gallows. There will be a maximum of 6 attempts (arms, legs, bo
   ------------  
 ```
 ## Video
-PIA. The Hangman Game [Here](https://youtu.be/ajBDJcPiY80).
+[PIA. The Hangman Game](https://youtu.be/ajBDJcPiY80).
 
 ## References
 I consulted some videos and pages to get references of how to make my code. 
 
--*dcastillob* on GitHub.
+-dcastillob on GitHub.
 
--*OpenWebinars* on Youtube.
+-OpenWebinars on Youtube.
 
--*Programador EC* on Youtube: (https://www.youtube.com/watch?v=kmQvQ2Y0X88)
+-[Programador EC](https://www.youtube.com/watch?v=kmQvQ2Y0X88) on Youtube 
 
--*CodigoCompilado* on Youtube: (https://www.youtube.com/watch?v=qnap571WLGY)
+-[CodigoCompilado](https://www.youtube.com/watch?v=qnap571WLGY) on Youtube 
 
--*DuarteCorporation Tutoriales* on Youtube: (https://www.youtube.com/watch?v=J47WHf8lQI8)
+-[DuarteCorporation Tutoriales](https://www.youtube.com/watch?v=J47WHf8lQI8) on Youtube
 
--https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c
+-[Hangman](https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c)
 
