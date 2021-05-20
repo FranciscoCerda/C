@@ -1,5 +1,3 @@
-/* ***This isn't the complete code*** */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -362,9 +360,7 @@ if (chances==1)
 }
 
 
-/* I used some videos and pages to obtain some
-references to do this short project advance. This isn't
-the final result but I think it is a great attempt to start.
+/* I consulted some videos and pages to get references of how to make my code. 
 References: dcastillob on GitHub.
 OpenWebinars on Youtube.
 https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c */
