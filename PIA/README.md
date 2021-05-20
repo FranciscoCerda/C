@@ -18,7 +18,7 @@ being hung on the gallows. There will be a maximum of 6 attempts (arms, legs, bo
 ```
         _______                                                                                                                  
        |/      |                                                                                                                 
-       |       O                                                                                                                  
+       |       0                                                                                                                  
        |      /|\                                                                                                                  
        |      / \                                                                                                                 
        |                                                                                                                         
