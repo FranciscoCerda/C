@@ -27,7 +27,7 @@ being hung on the gallows. There will be a maximum of 6 attempts (arms, legs, bo
   ------------  
 ```
 ## Video
-PIA. The Hangman Game [Here] (https://youtu.be/ajBDJcPiY80).
+PIA. The Hangman Game [Here](https://youtu.be/ajBDJcPiY80).
 
 ## References
 I consulted some videos and pages to get references of how to make my code. 
