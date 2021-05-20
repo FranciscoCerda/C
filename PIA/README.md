@@ -1,6 +1,6 @@
 # PIA: Hangman Game 
 
-## Brief description
+## Description
 
 For this project I make a code which let you play "Hangman" or "Ahorcado" in Spanish. 
 The options to introduce the words are: a user type the word to guess; the program reads 
@@ -28,3 +28,13 @@ being hung on the gallows. There will be a maximum of 6 attempts (arms, legs, bo
 ```
 ## Video
 PIA. The Hangman Game (https://youtu.be/ajBDJcPiY80)
+
+## References
+I consulted some videos and pages to get references of how to make my code. 
+-*dcastillob* on GitHub.
+-*OpenWebinars* on Youtube.
+-*Programador EC* on Youtube: (https://www.youtube.com/watch?v=kmQvQ2Y0X88)
+-*CodigoCompilado* on Youtube: (https://www.youtube.com/watch?v=qnap571WLGY)
+-*DuarteCorporation Tutoriales* on Youtube: (https://www.youtube.com/watch?v=J47WHf8lQI8)
+-https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c
+
