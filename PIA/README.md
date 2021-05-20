@@ -49,7 +49,7 @@ I consulted some videos and pages to get references of how to make my code.
 
 2: functionality 2 (has some errors with printing)
 
-3: code 3 (is a bit long, could be shortened)
+3: code 2 (It's a bit long, it could be shortened. I didn't have time to put enough comments)
 
 4: storage 2
 
